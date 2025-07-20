@@ -6,6 +6,7 @@ This project is a local chatbot interface using Anthropic's Claude API. Built wi
 - 🌐 React frontend
 - 🔐 API key loaded from `apikey.txt`
 
+
 ## Run
 
 ```bash
